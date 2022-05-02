@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item
+    android:id="@+id/act_formulario_aluno_menu_salva"
+    android:title="@string/salvar"
+    app:showAsAction="always"
+    android:icon="@drawable/salvar_aluno"
+    android:iconTint="@color/white"
+    tools:targetApi="o" />
+
+</menu>

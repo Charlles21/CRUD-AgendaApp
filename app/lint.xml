@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconXmlAndPng">
+        <ignore path="src/main/res/drawable-hdpi/iconemais.png" />
+        <ignore path="src/main/res/drawable-mdpi/iconemais.png" />
+        <ignore path="src/main/res/drawable-mdpi/salvar_aluno.png" />
+        <ignore path="src/main/res/drawable-xhdpi/iconemais.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/iconemais.png" />
+    </issue>
+</lint>
